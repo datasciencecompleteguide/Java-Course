@@ -1,0 +1,47 @@
+Q1. Write a program in Java to display the first 10 natural numbers. 
+
+Expected Output :
+
+The first 10 natural numbers are:                                                
+                                                                                 
+1                                                                                
+2                                                                                
+3                                                                                
+4                                                                                
+5                                                                                
+6                                                                                
+7                                                                                
+8                                                                                
+9                                                                                
+10
+
+Q2.Write a program in Java to display n terms of natural numbers and their sum. Go to the editor
+
+Test Data
+Input the number: 2
+Expected Output :
+
+Input number:                                                                    
+3                                                                                
+The first n natural numbers are :                                                                                                                                                                          1             
+2
+3                                                                                
+The Sum of Natural Number upto n terms :                                         
+6
+
+Q3.Write a program in Java to input 5 numbers from keyboard and find their sum and average. Go to the editor
+
+Test Data
+Input the 5 numbers : 1 2 3 4 5
+Expected Output :
+
+Input the 5 numbers :                                                            
+1                                                                                
+2                                                                                
+3                                                                                
+4                                                                                
+5                                                                                
+The sum of 5 no is : 15                                                          
+The Average is : 3.0                          
+
+Q4. Write a program that prompts the user to input a positive integer. It should then print the multiplication table of that number.
