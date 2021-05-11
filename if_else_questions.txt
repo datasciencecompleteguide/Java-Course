@@ -1,0 +1,47 @@
+1. Write a Java program to get a number from the user and print whether it is positive or negative. 
+
+Test Data
+Input number: 35
+Expected Output :
+Number is positive
+
+2.Take three numbers from the user and print the greatest number and smallest. 
+
+Test Data
+Input the 1st number: 25
+Input the 2nd number: 78
+Input the 3rd number: 87
+Expected Output :
+The greatest: 87
+
+3. Write a Java program that keeps a number from the user and generates an integer between 1 and 7 and displays the name of the weekday. 
+Test Data
+Input number: 3
+Expected Output :
+Wednesday
+
+4. Write a Java program that takes a year from user and print whether that year is a leap year or not.
+
+Test Data
+Input the year: 2016
+Expected Output :
+2016 is a leap year
+
+5.A school has following rules for grading system:
+a. Below 25 - F
+b. 25 to 45 - E
+c. 45 to 50 - D
+d. 50 to 60 - C
+e. 60 to 80 - B
+f. Above 80 - A
+Ask user to enter marks and print the corresponding grade.
+
+6. A student will not be allowed to sit in exam if his/her attendence is less than 75%.
+Take following input from user
+Number of classes held
+Number of classes attended.
+And print
+percentage of class attended
+Is student is allowed to sit in exam or not.
+
+7. Take values of length and breadth of a rectangle from user and check if it is square or not.
