@@ -15,7 +15,7 @@ The first 10 natural numbers are:
 9                                                                                
 10
 
-Q2.Write a program in Java to display n terms of natural numbers and their sum. Go to the editor
+Q2.Write a program in Java to display n terms of natural numbers and their sum.
 
 Test Data
 Input the number: 2
@@ -29,7 +29,7 @@ The first n natural numbers are :                                               
 The Sum of Natural Number upto n terms :                                         
 6
 
-Q3.Write a program in Java to input 5 numbers from keyboard and find their sum and average. Go to the editor
+Q3.Write a program in Java to input 5 numbers from keyboard and find their sum and average.
 
 Test Data
 Input the 5 numbers : 1 2 3 4 5
